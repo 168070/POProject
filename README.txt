@@ -1,5 +1,5 @@
 Internetowe Zapisy do Lekarza
 
 Struktora katalogow:
-/doc - dokumentacja projektu (Wizja, S³ownik, Regu³y Biznesowe)
+/doc - dokumentacja projektu (Wizja, Slownik, Reguly Biznesowe)
 /src - pliki zrodlowe (Diagram Klas)
