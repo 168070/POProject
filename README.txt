@@ -7,6 +7,7 @@ Struktora katalogow:
 Wizja
 Slownik
 Reguly Biznesowe
+Diagram Klas
 
 Specyfikacja Wymagan Funkcjonalnych
 Model Przypadkow Uzycia
